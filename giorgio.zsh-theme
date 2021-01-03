@@ -19,7 +19,7 @@
 : ${omg_should_push_symbol:=''}                #    
 : ${omg_has_stashes_symbol:=''}
 : ${omg_has_action_in_progress_symbol:=''}     #                  
-: ${omg_theme_color:=green}
+: ${omg_theme_color:=blue}
 
 autoload -U colors && colors
 
